@@ -1,0 +1,7 @@
+#things to ignore
+
+.classpath
+.project
+.settings/**/*
+target/**/*
+*.class
